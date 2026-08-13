@@ -11,5 +11,5 @@ Used to force Doubao traffic through proxy mode in xiaomao.
 Current rule:
 
 ```text
-doubao.com
+||doubao.com
 ```
