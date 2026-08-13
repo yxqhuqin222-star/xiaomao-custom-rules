@@ -1,1 +1,10 @@
 ||doubao.com
+||volces.com
+||volcengine.com
+||bytedance.com
+||bytecdn.cn
+||pstatp.com
+||snssdk.com
+||toutiao.com
+||ixigua.com
+||zijieapi.com
