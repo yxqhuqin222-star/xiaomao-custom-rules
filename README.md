@@ -8,8 +8,17 @@ Custom routing rules for xiaomao.
 
 Used to force Doubao traffic through proxy mode in xiaomao.
 
-Current rule:
+Current rules:
 
 ```text
 ||doubao.com
+||volces.com
+||volcengine.com
+||bytedance.com
+||bytecdn.cn
+||pstatp.com
+||snssdk.com
+||toutiao.com
+||ixigua.com
+||zijieapi.com
 ```
